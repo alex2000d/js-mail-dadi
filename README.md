@@ -19,3 +19,15 @@ Consigli del giorno:
 4. torniamo a scrivere in italiano
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento!
+
+problema/soluzione (email)
+
+1-creo un container (html) 
+2-dentro creo un campo input e un pulsante (html)
+3-creo un arrey
+4-recupero il pulsante dal dom
+5- recupero il valore inserito nel campo input
+6-creo una flag o variabile di controllo
+7-ciclo l'arrey e lo confronto con la parola inserita nella form
+8-? se è vera imposto la variabile a true
+9- mostro il risultato in console
