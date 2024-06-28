@@ -31,3 +31,12 @@ problema/soluzione (email)
 7-ciclo l'arrey e lo confronto con la parola inserita nella form
 8-? se è vera imposto la variabile a true
 9- mostro il risultato in console
+
+problema/soluzione (dadi)
+
+1-creo un generatore random con la libreria math
+2-creo una variabile player
+3-creo una variabile computer
+4-? se il player ha il numero piu alto allora comparirà la scritta hai vinto in console
+5-? se il computer ha il numero piu alto allora comparirà la scritta in console hai perso
+6-: altrimenti comparirà la scritta pareggio in console
